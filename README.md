@@ -6,4 +6,4 @@
 
  ![equation](http://latex.codecogs.com/gif.latex?%5Clarge%20I_%7Bi%2Cj%7D%5E%7Bz%2Cm%7D%20%3D%20%5Cfrac%7Bw%5E%7Bz%2Cm%7D%20%5Ctimes%20P_%7Bj%7D%5E%7Bm%7D%7D%7BPL%28d_%7Bi%2Cj%7D%29%7D)
 
- The table should be read as follows: The cell value line *i* and column *j* represents the amount (in percentage) that the channel represented by the line *i* overlaps the channel represented by the column *j*.
+The table should be read as follows: The cell value line *m* and column *z* represents the amount (in percentage) that the channel represented by the line *m* overlaps the channel represented by the column *z*.
