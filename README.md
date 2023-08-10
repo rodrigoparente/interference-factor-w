@@ -12,7 +12,7 @@ This repository is part of the paper: [Wireless Channel Assignment in Smart Home
 
 The [table](./interference-factor-w.pdf) should be read as follows: The cell value line *m* and column *z* represents the amount (in percentage) that the channel represented by the line *m* overlaps the channel represented by the column *z*.
 
-### Reference
+## Reference
 
 If you re-use this work, please cite:
 
